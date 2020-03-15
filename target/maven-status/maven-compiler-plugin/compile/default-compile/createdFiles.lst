@@ -1,0 +1,7 @@
+AllServices\AddRegularEmployee.class
+EmployeeAdd\Regular_Employee.class
+AllServices\StoreTest.class
+AllServices\ShowAllRegularEmployees.class
+EmployeeAdd\Employee.class
+EmployeeAdd\Contract_Employee.class
+AllServices\FetchTest.class
